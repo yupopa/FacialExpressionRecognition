@@ -5,6 +5,7 @@ Created on Thu Apr 16 15:07:17 2020
 
 @author: joycezheng
 """
+from scipy import *
 from scipy.spatial import distance as dist
 import numpy as np
 import cv2
