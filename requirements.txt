@@ -3,7 +3,7 @@ Dlib
 Numpy
 Scipy
 IMutils
-OpenCV
+opencv-python
 Pandas
 Argparse
 Python
