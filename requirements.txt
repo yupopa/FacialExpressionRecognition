@@ -1,7 +1,7 @@
 fastai
 Dlib 
 Numpy
-Scipy
+scipy
 IMutils
 opencv-python
 Pandas
